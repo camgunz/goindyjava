@@ -244,12 +244,12 @@ div.navbar {
 }
 
 #about_jumbotron {
-    background: url("/goindyjava/assets/indy13.png");
+    background: url("../indy13.png");
     background-position: center;
 }
 
 #columns_jumbotron {
-    background: url("/goindyjava/assets/indy14.png");
+    background: url("../indy14.png");
     background-position: center;
 }
 
