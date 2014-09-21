@@ -52,7 +52,7 @@
             <li><a href="${createLink(controller: 'lodgings', action: 'index')}">Lodging</a></li>
             <li class="divider"></li>
             <li><a href="${createLink(controller: 'lodgings', action: 'bnb')}">Bed and Breakfasts</a></li>
-            <li><a href="${createLink(controller: 'lodgings', action: 'hotel')}">Hotels</a></li>
+            <li><a href="${createLink(controller: 'lodgings', action: 'hotels')}">Hotels</a></li>
             <li><a href="${createLink(controller: 'lodgings', action: 'camping')}">Camping</a></li>
           </ul>
         </li>

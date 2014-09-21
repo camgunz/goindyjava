@@ -5,7 +5,7 @@ dataSource {
     driverClassName = "org.postgresql.Driver"
     username = "gisdev"
     password = "gisdev"
-	url = "jdbc:postgresql://localhost:5432/goindygrails"
+	url = "jdbc:postgresql://localhost:5432/goindyjava"
 }
 hibernate {
     cache.use_second_level_cache = true
